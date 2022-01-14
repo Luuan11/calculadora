@@ -1,5 +1,6 @@
 # Calculadora
 📜 Calculadora Feito em HTML, CSS e JavaScript.
+![calc](https://user-images.githubusercontent.com/79935555/149569775-0088feb8-4d93-4987-86b5-e82181318d28.png)
 
 
 ### 🧮 Sobre
